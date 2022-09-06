@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    background-image: url(eval\ table.jpg);
+    background-size: cover;
+}
+.get{
+    width: 300px;
+}
+select{
+    width: 150px !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+
+}
